@@ -1,1 +1,2 @@
-centos
+xhatt/dnfmysql:5.6
+timoxo/dnfserver:huazhi-6.0.0
